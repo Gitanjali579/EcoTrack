@@ -1,0 +1,57 @@
+/* ============================================
+   Navbar
+============================================ */
+
+.eco-navbar {
+  min-height: 70px;
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.eco-navbar .navbar-brand {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #198754;
+}
+
+.eco-navbar .nav-link {
+  color: #4b5563;
+  font-weight: 500;
+  margin: 0 5px;
+  transition: 0.3s ease;
+}
+
+.eco-navbar .nav-link:hover {
+  color: #198754;
+}
+
+.eco-navbar .nav-link.active {
+  color: #198754;
+  font-weight: 600;
+}
+
+.eco-navbar .profile-button {
+  border: none;
+  background: #f0fdf4;
+  color: #198754;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.eco-navbar .notification-button {
+  border: none;
+  background: transparent;
+  color: #6b7280;
+  padding: 8px;
+}
+
+.eco-navbar .notification-button:hover {
+  color: #198754;
+}

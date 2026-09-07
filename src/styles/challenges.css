@@ -1,0 +1,70 @@
+/* ============================================
+   Challenges
+============================================ */
+
+.challenges-page {
+  padding: 40px 0;
+}
+
+.challenges-header {
+  margin-bottom: 30px;
+}
+
+.challenges-header h2 {
+  font-weight: 700;
+}
+
+.challenges-header p {
+  color: #6b7280;
+}
+
+.challenge-card {
+  height: 100%;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 22px;
+  transition: 0.3s ease;
+}
+
+.challenge-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.07);
+}
+
+.challenge-card.completed {
+  border-color: #86efac;
+  background: #f0fdf4;
+}
+
+.challenge-category {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #198754;
+  background: #d1fae5;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+
+.challenge-title {
+  font-weight: 700;
+  margin-top: 15px;
+}
+
+.challenge-description {
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.challenge-meta {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 18px;
+  color: #6b7280;
+  font-size: 0.85rem;
+}
+
+.challenge-button {
+  width: 100%;
+  margin-top: 18px;
+}

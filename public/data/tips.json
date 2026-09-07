@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "category": "Transport",
+    "title": "Choose Public Transport",
+    "tip": "Use buses, trains or shared transportation whenever possible instead of travelling alone by car.",
+    "impact": "High"
+  },
+  {
+    "id": 2,
+    "category": "Transport",
+    "title": "Walk Short Distances",
+    "tip": "For short journeys, walking or cycling can reduce emissions while keeping you active.",
+    "impact": "Medium"
+  },
+  {
+    "id": 3,
+    "category": "Transport",
+    "title": "Share Your Ride",
+    "tip": "Carpooling can reduce the emissions produced per person during a journey.",
+    "impact": "Medium"
+  },
+  {
+    "id": 4,
+    "category": "Energy",
+    "title": "Switch Off Unused Devices",
+    "tip": "Turn off lights, fans, computers and other appliances when they are not needed.",
+    "impact": "Medium"
+  },
+  {
+    "id": 5,
+    "category": "Energy",
+    "title": "Use Energy-Efficient Appliances",
+    "tip": "Energy-efficient appliances can reduce electricity consumption over time.",
+    "impact": "High"
+  },
+  {
+    "id": 6,
+    "category": "Energy",
+    "title": "Use Natural Light",
+    "tip": "Open curtains and use natural daylight instead of artificial lighting when possible.",
+    "impact": "Low"
+  },
+  {
+    "id": 7,
+    "category": "Food",
+    "title": "Reduce Food Waste",
+    "tip": "Plan meals before shopping and store food properly to avoid unnecessary waste.",
+    "impact": "High"
+  },
+  {
+    "id": 8,
+    "category": "Food",
+    "title": "Try Plant-Based Meals",
+    "tip": "Adding more plant-based meals to your diet can help reduce the carbon footprint associated with food.",
+    "impact": "Medium"
+  },
+  {
+    "id": 9,
+    "category": "Food",
+    "title": "Buy Local Food",
+    "tip": "Choosing locally produced food when practical can reduce transportation-related emissions.",
+    "impact": "Low"
+  },
+  {
+    "id": 10,
+    "category": "Waste",
+    "title": "Reuse Before Recycling",
+    "tip": "Try to reuse products and containers before sending them for recycling.",
+    "impact": "Medium"
+  },
+  {
+    "id": 11,
+    "category": "Waste",
+    "title": "Avoid Single-Use Plastic",
+    "tip": "Carry reusable bags, bottles and containers to reduce disposable plastic consumption.",
+    "impact": "Medium"
+  },
+  {
+    "id": 12,
+    "category": "Waste",
+    "title": "Separate Your Waste",
+    "tip": "Keep recyclable materials separate from general waste to make recycling easier.",
+    "impact": "High"
+  },
+  {
+    "id": 13,
+    "category": "Lifestyle",
+    "title": "Start Small",
+    "tip": "Small sustainable habits repeated every day can create a meaningful long-term impact.",
+    "impact": "Medium"
+  },
+  {
+    "id": 14,
+    "category": "Lifestyle",
+    "title": "Track Your Progress",
+    "tip": "Regularly checking your carbon footprint can help you understand which habits have the biggest impact.",
+    "impact": "High"
+  },
+  {
+    "id": 15,
+    "category": "Lifestyle",
+    "title": "Set Monthly Goals",
+    "tip": "Choose realistic environmental goals every month and track how consistently you achieve them.",
+    "impact": "Medium"
+  }
+]

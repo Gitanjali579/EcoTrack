@@ -1,0 +1,115 @@
+{
+  "transport": {
+    "car": {
+      "name": "Car",
+      "unit": "km",
+      "factor": 0.192,
+      "description": "Estimated emissions per kilometer travelled by car."
+    },
+    "motorcycle": {
+      "name": "Motorcycle",
+      "unit": "km",
+      "factor": 0.103,
+      "description": "Estimated emissions per kilometer travelled by motorcycle."
+    },
+    "bus": {
+      "name": "Bus",
+      "unit": "km",
+      "factor": 0.089,
+      "description": "Estimated emissions per passenger kilometer by bus."
+    },
+    "train": {
+      "name": "Train",
+      "unit": "km",
+      "factor": 0.041,
+      "description": "Estimated emissions per passenger kilometer by train."
+    },
+    "bike": {
+      "name": "Bicycle",
+      "unit": "km",
+      "factor": 0,
+      "description": "Direct operational emissions are treated as zero."
+    },
+    "walking": {
+      "name": "Walking",
+      "unit": "km",
+      "factor": 0,
+      "description": "Direct operational emissions are treated as zero."
+    }
+  },
+
+  "energy": {
+    "electricity": {
+      "name": "Electricity",
+      "unit": "kWh",
+      "factor": 0.708,
+      "description": "Estimated emissions per kilowatt-hour of electricity consumed."
+    },
+    "naturalGas": {
+      "name": "Natural Gas",
+      "unit": "kWh",
+      "factor": 0.183,
+      "description": "Estimated emissions per kilowatt-hour of natural gas consumed."
+    }
+  },
+
+  "food": {
+    "beef": {
+      "name": "Beef",
+      "unit": "kg",
+      "factor": 27.0,
+      "description": "Estimated emissions per kilogram of beef consumed."
+    },
+    "chicken": {
+      "name": "Chicken",
+      "unit": "kg",
+      "factor": 6.9,
+      "description": "Estimated emissions per kilogram of chicken consumed."
+    },
+    "pork": {
+      "name": "Pork",
+      "unit": "kg",
+      "factor": 7.2,
+      "description": "Estimated emissions per kilogram of pork consumed."
+    },
+    "vegetables": {
+      "name": "Vegetables",
+      "unit": "kg",
+      "factor": 2.0,
+      "description": "Estimated emissions per kilogram of vegetables consumed."
+    },
+    "plantBased": {
+      "name": "Plant-Based Food",
+      "unit": "kg",
+      "factor": 1.5,
+      "description": "Estimated emissions per kilogram of plant-based food consumed."
+    }
+  },
+
+  "waste": {
+    "generalWaste": {
+      "name": "General Waste",
+      "unit": "kg",
+      "factor": 0.6,
+      "description": "Estimated emissions associated with general household waste."
+    },
+    "recycledWaste": {
+      "name": "Recycled Waste",
+      "unit": "kg",
+      "factor": 0.2,
+      "description": "Estimated emissions associated with recycled waste."
+    },
+    "foodWaste": {
+      "name": "Food Waste",
+      "unit": "kg",
+      "factor": 1.9,
+      "description": "Estimated emissions associated with food waste."
+    }
+  },
+
+  "metadata": {
+    "unit": "kg CO2e",
+    "note": "These values are illustrative estimates for a frontend portfolio project. Actual emissions vary by location, technology, energy source, vehicle efficiency and methodology.",
+    "lastUpdated": "2026"
+  }
+}

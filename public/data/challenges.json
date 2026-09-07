@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Car-Free Day",
+    "description": "Avoid using your personal car for one full day and choose walking, cycling or public transport.",
+    "category": "Transport",
+    "difficulty": "Easy",
+    "points": 20,
+    "estimatedReduction": 2.4,
+    "unit": "kg CO₂e"
+  },
+  {
+    "id": 2,
+    "title": "Walk 5,000 Steps",
+    "description": "Replace a short vehicle journey with walking and complete at least 5,000 steps.",
+    "category": "Transport",
+    "difficulty": "Easy",
+    "points": 15,
+    "estimatedReduction": 1.2,
+    "unit": "kg CO₂e"
+  },
+  {
+    "id": 3,
+    "title": "Public Transport Week",
+    "description": "Use buses or trains instead of a personal vehicle for your daily commute for one week.",
+    "category": "Transport",
+    "difficulty": "Medium",
+    "points": 50,
+    "estimatedReduction": 12.5,
+    "unit": "kg CO₂e"
+  },
+  {
+    "id": 4,
+    "title": "Switch Off Lights",
+    "description": "Turn off unnecessary lights and electrical appliances whenever you leave a room.",
+    "category": "Energy",
+    "difficulty": "Easy",
+    "points": 15,
+    "estimatedReduction": 0.8,
+    "unit": "kg CO₂e"
+  },
+  {
+    "id": 5,
+    "title": "Reduce AC Usage",
+    "description": "Increase your AC temperature slightly and reduce unnecessary cooling for one week.",
+    "category": "Energy",
+    "difficulty": "Medium",
+    "points": 30,
+    "estimatedReduction": 4.5,
+    "unit": "kg CO₂e"
+  },
+  {
+    "id": 6,
+    "title": "Meat-Free Day",
+    "description": "Choose a plant-based diet for one complete day.",
+    "category": "Food",
+    "difficulty": "Easy",
+    "points": 20,
+    "estimatedReduction": 1.5,
+    "unit": "kg CO₂e"
+  },
+  {
+    "id": 7,
+    "title": "Reduce Food Waste",
+    "description": "Plan your meals carefully and avoid throwing away edible food.",
+    "category": "Food",
+    "difficulty": "Medium",
+    "points": 30,
+    "estimatedReduction": 2.0,
+    "unit": "kg CO₂e"
+  },
+  {
+    "id": 8,
+    "title": "Reusable Bottle",
+    "description": "Use a reusable water bottle instead of buying single-use plastic bottles.",
+    "category": "Waste",
+    "difficulty": "Easy",
+    "points": 10,
+    "estimatedReduction": 0.5,
+    "unit": "kg CO₂e"
+  },
+  {
+    "id": 9,
+    "title": "Recycle for a Week",
+    "description": "Separate recyclable materials from general household waste for seven days.",
+    "category": "Waste",
+    "difficulty": "Medium",
+    "points": 25,
+    "estimatedReduction": 1.8,
+    "unit": "kg CO₂e"
+  },
+  {
+    "id": 10,
+    "title": "Eco Champion",
+    "description": "Complete at least five sustainability challenges in one month.",
+    "category": "Lifestyle",
+    "difficulty": "Hard",
+    "points": 100,
+    "estimatedReduction": 25.0,
+    "unit": "kg CO₂e"
+  }
+]

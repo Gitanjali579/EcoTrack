@@ -1,0 +1,84 @@
+/* ============================================
+   Dashboard
+============================================ */
+
+.dashboard-page {
+  padding: 35px 0;
+}
+
+.dashboard-header {
+  margin-bottom: 30px;
+}
+
+.dashboard-header h2 {
+  font-weight: 700;
+}
+
+.dashboard-header p {
+  color: #6b7280;
+}
+
+.stat-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 22px;
+  height: 100%;
+  transition: 0.3s ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+}
+
+.stat-icon {
+  width: 46px;
+  height: 46px;
+  border-radius: 12px;
+  background: #f0fdf4;
+  color: #198754;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.stat-value {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.stat-title {
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.chart-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 24px;
+}
+
+.chart-card h5 {
+  font-weight: 700;
+}
+
+.emission-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 20px;
+}
+
+.emission-icon {
+  width: 45px;
+  height: 45px;
+  background: #f0fdf4;
+  color: #198754;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

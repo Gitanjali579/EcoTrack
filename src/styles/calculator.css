@@ -1,0 +1,85 @@
+/* ============================================
+   Calculator
+============================================ */
+
+.calculator-page {
+  padding: 40px 0;
+}
+
+.calculator-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.calculator-icon {
+  color: #198754;
+  margin-bottom: 12px;
+}
+
+.calculator-header h2 {
+  font-weight: 700;
+}
+
+.calculator-header p {
+  color: #6b7280;
+}
+
+.calculator-card {
+  border: none;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.07);
+}
+
+.calculator-card .form-label {
+  color: #374151;
+}
+
+.calculator-card .form-control {
+  min-height: 48px;
+  border-color: #d1d5db;
+}
+
+.calculator-card .form-control:focus {
+  border-color: #198754;
+  box-shadow: 0 0 0 0.2rem rgba(25, 135, 84, 0.12);
+}
+
+.calculator-card .input-group-text {
+  background: #f8faf9;
+  color: #6b7280;
+}
+
+.calculate-button {
+  min-height: 52px;
+  font-weight: 600;
+}
+
+.calculator-result {
+  border: none;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.07);
+}
+
+.total-emission {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #198754;
+}
+
+.result-item {
+  background: #f8faf9;
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.result-item-label {
+  color: #6b7280;
+  font-size: 0.85rem;
+}
+
+.result-item-value {
+  font-size: 1.2rem;
+  font-weight: 700;
+}

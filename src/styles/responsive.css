@@ -1,0 +1,69 @@
+/* ============================================
+   Responsive Design
+============================================ */
+
+@media (max-width: 991px) {
+
+  .eco-sidebar {
+    display: none;
+  }
+
+  .dashboard-page,
+  .calculator-page,
+  .simulator-page,
+  .challenges-page {
+    padding: 25px 0;
+  }
+
+  .navbar-nav {
+    padding-top: 15px;
+  }
+
+}
+
+@media (max-width: 767px) {
+
+  .total-emission {
+    font-size: 2.8rem;
+  }
+
+  .simulator-result-value {
+    font-size: 2rem;
+  }
+
+  .chart-card {
+    padding: 16px;
+  }
+
+  .calculator-card {
+    border-radius: 12px;
+  }
+
+  .calculator-card .card-body {
+    padding: 22px !important;
+  }
+
+}
+
+@media (max-width: 575px) {
+
+  .dashboard-header h2,
+  .calculator-header h2,
+  .simulator-header h2,
+  .challenges-header h2 {
+    font-size: 1.6rem;
+  }
+
+  .total-emission {
+    font-size: 2.4rem;
+  }
+
+  .stat-value {
+    font-size: 1.5rem;
+  }
+
+  .result-item {
+    padding: 12px;
+  }
+
+}

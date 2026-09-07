@@ -1,0 +1,59 @@
+/* ============================================
+   What-If Simulator
+============================================ */
+
+.simulator-page {
+  padding: 40px 0;
+}
+
+.simulator-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.simulator-header h2 {
+  font-weight: 700;
+}
+
+.simulator-header p {
+  color: #6b7280;
+}
+
+.simulator-card {
+  background: #ffffff;
+  border: none;
+  border-radius: 18px;
+  padding: 25px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.07);
+}
+
+.simulator-slider {
+  width: 100%;
+}
+
+.simulator-value {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #198754;
+}
+
+.simulator-result {
+  background: #f0fdf4;
+  border-radius: 16px;
+  padding: 25px;
+}
+
+.simulator-result-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #198754;
+}
+
+.reduction-badge {
+  display: inline-block;
+  padding: 8px 14px;
+  border-radius: 20px;
+  background: #d1fae5;
+  color: #146c43;
+  font-weight: 600;
+}
